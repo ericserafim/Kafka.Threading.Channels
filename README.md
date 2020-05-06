@@ -10,4 +10,5 @@ With Threading.Channels, I can scale the application even it is limited to run o
 
 ![Project Flow](https://github.com/ericserafim/Kafka.Threading.Channels/blob/master/Docs/Kafka%20Subscriber.png)
 
+## Settings
 You can increase the processing, changing the settings "numberOfConsumers".
